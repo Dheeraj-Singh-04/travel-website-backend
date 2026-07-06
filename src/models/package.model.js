@@ -214,4 +214,4 @@ packageSchema.index({ destination_slugs: 1 });
 
 const Package = mongoose.model("Package", packageSchema);
 
-export default Package;x
+export default Package;

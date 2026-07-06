@@ -1,5 +1,4 @@
-const mongoose = require("mongoose");
-const { type } = require("node:os");
+import mongoose from "mongoose";
 
 const countrySchema = new mongoose.Schema(
   {
@@ -7,26 +6,30 @@ const countrySchema = new mongoose.Schema(
       type: String,
       required: true,
       trim: true,
+      unique: true,
     },
+
     slug: {
       type: String,
       required: true,
       unique: true,
-      lowecase: true,
     },
+
     continent: {
       type: String,
       required: true,
     },
+
     isActive: {
       type: Boolean,
       default: true,
     },
   },
-  { timestamps: true },
+  {
+    timestamps: true,
+  },
 );
 
-countrySchema.index({ name: 1 });
-countrySchema.index({ slug: 1 });
+const Country = mongoose.model("Country", countrySchema);
 
-module.exports = mongoose.model("Country", countrySchema);
+export default Country;

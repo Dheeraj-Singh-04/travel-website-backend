@@ -1,6 +1,4 @@
-// models/upcomingTrip.model.js
-
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const upcomingTripSchema = new mongoose.Schema(
   {
@@ -22,21 +20,15 @@ const upcomingTripSchema = new mongoose.Schema(
 
     status: {
       type: String,
-      enum: [
-        "open",
-        "sold-out",
-        "cancelled",
-        "completed",
-      ],
+      enum: ["open", "sold-out", "cancelled", "completed"],
       default: "open",
     },
   },
   {
     timestamps: true,
-  }
+  },
 );
 
-module.exports = mongoose.model(
-  "UpcomingTrip",
-  upcomingTripSchema
-);
+const UpcomingTrip = mongoose.model("UpcomingTrip", upcomingTripSchema);
+
+export default UpcomingTrip;

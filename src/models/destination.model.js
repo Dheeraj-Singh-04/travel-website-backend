@@ -1,16 +1,14 @@
-// models/destination.model.js
-
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const destinationSchema = new mongoose.Schema(
   {
     countryId: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "Country",
-      required: true,
+      required: false,
     },
 
-    name: {
+    title: {
       type: String,
       required: true,
     },
@@ -19,6 +17,7 @@ const destinationSchema = new mongoose.Schema(
       type: String,
       required: true,
       unique: true,
+      trim: true,
     },
 
     shortDescription: String,
@@ -41,13 +40,11 @@ const destinationSchema = new mongoose.Schema(
   },
   {
     timestamps: true,
-  }
+  },
 );
 
 destinationSchema.index({ countryId: 1 });
-destinationSchema.index({ slug: 1 });
+destinationSchema.index({ isFeatured: 1 });
 
-module.exports = mongoose.model(
-  "Destination",
-  destinationSchema
-);
+const Destination = mongoose.model("Destination", destinationSchema);
+export default Destination;

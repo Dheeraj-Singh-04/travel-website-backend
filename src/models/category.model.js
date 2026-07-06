@@ -1,21 +1,25 @@
-// models/category.model.js
-
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const categorySchema = new mongoose.Schema(
   {
     name: {
       type: String,
       required: true,
+      unique: true,
+      trim: true,
     },
 
     slug: {
       type: String,
-      unique: true,
       required: true,
+      unique: true,
+      trim: true,
     },
 
-    icon: String,
+    icon: {
+      type: String,
+      default: "",
+    },
 
     isActive: {
       type: Boolean,
@@ -24,10 +28,8 @@ const categorySchema = new mongoose.Schema(
   },
   {
     timestamps: true,
-  }
+  },
 );
 
-module.exports = mongoose.model(
-  "Category",
-  categorySchema
-);
+const Category = mongoose.model("Category", categorySchema);
+export default Category;

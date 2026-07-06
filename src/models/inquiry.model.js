@@ -1,6 +1,4 @@
-// models/inquiry.model.js
-
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const inquirySchema = new mongoose.Schema(
   {
@@ -14,22 +12,26 @@ const inquirySchema = new mongoose.Schema(
       ref: "Destination",
     },
 
-    name: String,
+    name: {
+      type: String,
+      required: true,
+    },
 
-    email: String,
+    email: {
+      type: String,
+      required: true,
+    },
 
-    phone: String,
+    phone: {
+      type: String,
+      required: true,
+    },
 
     message: String,
 
     status: {
       type: String,
-      enum: [
-        "new",
-        "contacted",
-        "closed",
-        "spam",
-      ],
+      enum: ["new", "contacted", "closed", "spam"],
       default: "new",
     },
 
@@ -40,10 +42,8 @@ const inquirySchema = new mongoose.Schema(
   },
   {
     timestamps: true,
-  }
+  },
 );
 
-module.exports = mongoose.model(
-  "Inquiry",
-  inquirySchema
-);
+const Inquiry = mongoose.model("Inquiry", inquirySchema);
+export default Inquiry;

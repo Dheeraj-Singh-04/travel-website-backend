@@ -1,49 +1,40 @@
-// models/footerSetting.model.js
+import mongoose from "mongoose";
 
-const mongoose = require("mongoose");
-
-const footerSettingSchema = new mongoose.Schema(
+const footerSchema = new mongoose.Schema(
   {
-    quickLinks: [
+    sections: [
       {
-        label: String,
-        url: String,
+        title: {
+          type: String,
+          required: true,
+        },
+
+        links: [
+          {
+            label: {
+              type: String,
+              required: true,
+            },
+
+            href: {
+              type: String,
+              required: true,
+            },
+
+            external: {
+              type: Boolean,
+              default: false,
+            },
+          },
+        ],
       },
     ],
-
-    destinations: [
-      {
-        label: String,
-        slug: String,
-      },
-    ],
-
-    specialCategories: [
-      {
-        label: String,
-        slug: String,
-      },
-    ],
-
-    socialLinks: {
-      facebook: String,
-      instagram: String,
-      youtube: String,
-      linkedin: String,
-    },
-
-    contactInfo: {
-      phone: String,
-      email: String,
-      address: String,
-    },
   },
   {
     timestamps: true,
   }
 );
 
-module.exports = mongoose.model(
-  "FooterSetting",
-  footerSettingSchema
-);
+const Footer = mongoose.model("FooterSetting", footerSchema);
+
+export default Footer;

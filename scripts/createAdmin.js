@@ -8,11 +8,23 @@ dotenv.config();
 
 await mongoose.connect(process.env.MONGO_URL);
 
-const hashedPassword = await bcrypt.hash("admin123", 10);
+// Hash password from .env
+const hashedPassword = await bcrypt.hash(process.env.ADMIN_PASSWORD, 10);
 
+// Check if admin already exists
+const adminExist = await Admin.findOne({
+  email: process.env.ADMIN_EMAIL,
+});
+
+if (adminExist) {
+  console.log("Admin already exists.");
+  process.exit();
+}
+
+// Create Admin
 await Admin.create({
-  name: "admin",
-  email: "admin@gmail.com",
+  name: process.env.ADMIN_NAME,
+  email: process.env.ADMIN_EMAIL,
   password: hashedPassword,
   role: "super-admin",
 });

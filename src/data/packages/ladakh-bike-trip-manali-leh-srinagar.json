@@ -8,7 +8,7 @@
     "Budget Friendly",
     "Winter Specials"
   ],
-  "status": "published",
+  "status": "active",
   "is_featured": false,
   "sort_order": 100,
   "main_image_url": "https://drive.google.com/file/d/1QEnpN7PCEcvmTwrPMVjrGzksaaWBIcCF/view?usp=drive_link",
@@ -449,33 +449,33 @@
       }
     ],
     "paymentSchedule": [
-      "25% non-refundable advance to confirm hotels, flights and visa processing",
-      "50% balance due 30 days before travel",
-      "Final 25% due 15 days before travel",
-      "For bookings within 30 days: full amount due at booking",
-      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      {
+        "title": "Installment 1",
+        "amount": "25% non-refundable advance to confirm hotels, flights and visa processing"
+      },
+      {
+        "title": "Installment 2",
+        "amount": "50% balance due 30 days before travel"
+      },
+      {
+        "title": "Installment 3",
+        "amount": "Final 25% due 15 days before travel"
+      },
+      {
+        "title": "Installment 4",
+        "amount": "For bookings within 30 days: full amount due at booking"
+      },
+      {
+        "title": "Installment 5",
+        "amount": "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      }
     ],
     "cancellationPolicy": [
-      {
-        "timing": "More than 30 days before departure",
-        "fee": "60% refund of total tour cost"
-      },
-      {
-        "timing": "Between 15-30 days before departure",
-        "fee": "25% refund of total tour cost"
-      },
-      {
-        "timing": "Less than 15 days before departure or no-show",
-        "fee": "No refund; full amount forfeited"
-      },
-      {
-        "timing": "Air tickets, visa fees, non-refundable third-party services",
-        "fee": "100% non-refundable from issuance"
-      },
-      {
-        "timing": "Refunds processed within 15-30 working days via original payment channel",
-        "fee": "As applicable"
-      }
+      "More than 30 days before departure - 60% refund of total tour cost",
+      "Between 15-30 days before departure - 25% refund of total tour cost",
+      "Less than 15 days before departure or no-show - No refund; full amount forfeited",
+      "Air tickets, visa fees, non-refundable third-party services - 100% non-refundable from issuance",
+      "Refunds processed within 15-30 working days via original payment channel - As applicable"
     ],
     "amendments": [
       "One free date change allowed if requested more than 60 days before travel, same package and season",
@@ -490,52 +490,27 @@
       "Liability is limited to the package value paid"
     ],
     "whatToPack": [
-      {
-        "category": "Documents",
-        "items": [
-          "Government photo ID (Aadhaar / DL / passport) + photocopy",
-          "Confirmed flight/train tickets, hotel vouchers (we email 5 days before travel)",
-          "Two backup IDs",
-          "PAN card for hotel check-in in some states"
-        ]
-      },
-      {
-        "category": "Adventure / High-Altitude Gear",
-        "items": [
-          "Trekking shoes with ankle support (broken in, not brand new)",
-          "Thermals, fleece, windproof shell, rain layer",
-          "Trekking pole; headlamp with spare batteries",
-          "SPF 50+ sunscreen, UV sunglasses, lip balm",
-          "Diamox for altitude (consult doctor first)"
-        ]
-      },
-      {
-        "category": "Tech & Gadgets",
-        "items": [
-          "Phone charger + power bank",
-          "Camera or phone with good camera",
-          "Portable Bluetooth speaker (optional)",
-          "Daypack with rain cover"
-        ]
-      },
-      {
-        "category": "Health & Personal Care",
-        "items": [
-          "Personal medication for the trip + 2-3 days extra",
-          "Basic first-aid (bandages, antiseptic, ORS)",
-          "Paracetamol, anti-diarrhoeal, prescription meds",
-          "Toiletries (resorts provide basics but bring personal preferences)",
-          "Mosquito repellent for tropical/wildlife destinations"
-        ]
-      },
-      {
-        "category": "Money & Cards",
-        "items": [
-          "One backup ATM/debit card",
-          "Some INR cash for tips and small purchases",
-          "UPI works in most tourist towns — keep GPay/PhonePe active"
-        ]
-      }
+      "Government photo ID (Aadhaar / DL / passport) + photocopy",
+      "Confirmed flight/train tickets, hotel vouchers (we email 5 days before travel)",
+      "Two backup IDs",
+      "PAN card for hotel check-in in some states",
+      "Trekking shoes with ankle support (broken in, not brand new)",
+      "Thermals, fleece, windproof shell, rain layer",
+      "Trekking pole; headlamp with spare batteries",
+      "SPF 50+ sunscreen, UV sunglasses, lip balm",
+      "Diamox for altitude (consult doctor first)",
+      "Phone charger + power bank",
+      "Camera or phone with good camera",
+      "Portable Bluetooth speaker (optional)",
+      "Daypack with rain cover",
+      "Personal medication for the trip + 2-3 days extra",
+      "Basic first-aid (bandages, antiseptic, ORS)",
+      "Paracetamol, anti-diarrhoeal, prescription meds",
+      "Toiletries (resorts provide basics but bring personal preferences)",
+      "Mosquito repellent for tropical/wildlife destinations",
+      "One backup ATM/debit card",
+      "Some INR cash for tips and small purchases",
+      "UPI works in most tourist towns — keep GPay/PhonePe active"
     ],
     "faqs": [
       {

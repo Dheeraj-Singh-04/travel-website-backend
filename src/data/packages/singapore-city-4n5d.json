@@ -5,7 +5,7 @@
   "subCategory": [
     "Group Trips"
   ],
-  "status": "published",
+  "status": "active",
   "is_featured": false,
   "sort_order": 100,
   "main_image_url": "https://drive.google.com/file/d/1_2IgdoE20IH-D9NHibk44IuqNtz74rQw/view?usp=drive_link",
@@ -217,33 +217,33 @@
       }
     ],
     "paymentSchedule": [
-      "25% non-refundable advance to confirm hotels, flights and visa processing",
-      "50% balance due 30 days before travel",
-      "Final 25% due 15 days before travel",
-      "For bookings within 30 days: full amount due at booking",
-      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      {
+        "title": "Installment 1",
+        "amount": "25% non-refundable advance to confirm hotels, flights and visa processing"
+      },
+      {
+        "title": "Installment 2",
+        "amount": "50% balance due 30 days before travel"
+      },
+      {
+        "title": "Installment 3",
+        "amount": "Final 25% due 15 days before travel"
+      },
+      {
+        "title": "Installment 4",
+        "amount": "For bookings within 30 days: full amount due at booking"
+      },
+      {
+        "title": "Installment 5",
+        "amount": "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      }
     ],
     "cancellationPolicy": [
-      {
-        "timing": "More than 30 days before departure",
-        "fee": "60% refund of total tour cost"
-      },
-      {
-        "timing": "Between 15-30 days before departure",
-        "fee": "25% refund of total tour cost"
-      },
-      {
-        "timing": "Less than 15 days before departure or no-show",
-        "fee": "No refund; full amount forfeited"
-      },
-      {
-        "timing": "Air tickets, visa fees, non-refundable third-party services",
-        "fee": "100% non-refundable from issuance"
-      },
-      {
-        "timing": "Refunds processed within 15-30 working days via original payment channel",
-        "fee": "As applicable"
-      }
+      "More than 30 days before departure - 60% refund of total tour cost",
+      "Between 15-30 days before departure - 25% refund of total tour cost",
+      "Less than 15 days before departure or no-show - No refund; full amount forfeited",
+      "Air tickets, visa fees, non-refundable third-party services - 100% non-refundable from issuance",
+      "Refunds processed within 15-30 working days via original payment channel - As applicable"
     ],
     "amendments": [
       "One free date change allowed if requested more than 60 days before travel, same package and season",
@@ -258,53 +258,28 @@
       "Liability is limited to the package value paid"
     ],
     "whatToPack": [
-      {
-        "category": "Documents",
-        "items": [
-          "Original passport (valid 6+ months from return) + photocopy",
-          "Printed visa approval & supporting documents",
-          "Flight tickets, hotel vouchers, insurance PDF (we email 5 days before travel)",
-          "PAN & Aadhaar for India-side transactions"
-        ]
-      },
-      {
-        "category": "Clothing & Essentials",
-        "items": [
-          "Layered clothing appropriate to season",
-          "Comfortable walking shoes (already broken in)",
-          "One smart-casual outfit for nicer dinners",
-          "Light rain jacket in shoulder season",
-          "Daypack for sightseeing"
-        ]
-      },
-      {
-        "category": "Tech & Gadgets",
-        "items": [
-          "Universal travel adaptor (most countries differ from India's plug type)",
-          "Power bank under 100Wh (flight regulation)",
-          "Destination eSIM (Airalo, Holafly) or international roaming",
-          "Camera with spare batteries"
-        ]
-      },
-      {
-        "category": "Health & Personal Care",
-        "items": [
-          "Personal medication for the trip + 2-3 days extra",
-          "Basic first-aid (bandages, antiseptic, ORS)",
-          "Paracetamol, anti-diarrhoeal, prescription meds",
-          "Toiletries (resorts provide basics but bring personal preferences)",
-          "Mosquito repellent for tropical/wildlife destinations"
-        ]
-      },
-      {
-        "category": "Money & Cards",
-        "items": [
-          "Forex card pre-loaded with destination currency (Niyo / Wise / BookMyForex)",
-          "Some destination-currency cash for tips and small purchases",
-          "One backup card with no forex markup",
-          "INR for airport transfers and post-return expenses"
-        ]
-      }
+      "Original passport (valid 6+ months from return) + photocopy",
+      "Printed visa approval & supporting documents",
+      "Flight tickets, hotel vouchers, insurance PDF (we email 5 days before travel)",
+      "PAN & Aadhaar for India-side transactions",
+      "Layered clothing appropriate to season",
+      "Comfortable walking shoes (already broken in)",
+      "One smart-casual outfit for nicer dinners",
+      "Light rain jacket in shoulder season",
+      "Daypack for sightseeing",
+      "Universal travel adaptor (most countries differ from India's plug type)",
+      "Power bank under 100Wh (flight regulation)",
+      "Destination eSIM (Airalo, Holafly) or international roaming",
+      "Camera with spare batteries",
+      "Personal medication for the trip + 2-3 days extra",
+      "Basic first-aid (bandages, antiseptic, ORS)",
+      "Paracetamol, anti-diarrhoeal, prescription meds",
+      "Toiletries (resorts provide basics but bring personal preferences)",
+      "Mosquito repellent for tropical/wildlife destinations",
+      "Forex card pre-loaded with destination currency (Niyo / Wise / BookMyForex)",
+      "Some destination-currency cash for tips and small purchases",
+      "One backup card with no forex markup",
+      "INR for airport transfers and post-return expenses"
     ],
     "faqs": [
       {

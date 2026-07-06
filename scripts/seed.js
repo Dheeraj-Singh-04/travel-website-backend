@@ -8,7 +8,8 @@ import Inquiry from "../src/models/inquiry.model.js";
 import Testimonial from "../src/models/testimonial.model.js";
 import UpcomingTrip from "../src/models/upcomingTrip.model.js";
 import Footer from "../src/models/footerSetting.model.js";
-
+import fs from "fs";
+import path from "path";
 import * as seededData from "../src/data/data.js";
 
 const seedData = async () => {
@@ -64,29 +65,25 @@ const seedData = async () => {
     console.log("Destinations Seeded");
 
     // packages
-    const formattedPackages = seededData.travelPackages.map((pkg) => ({
-      title: pkg.title,
+    // Packages
+    const packageFolder = path.join(process.cwd(), "src/data/packages");
 
-      slug: pkg.slug,
+    const packageFiles = fs
+      .readdirSync(packageFolder)
+      .filter((file) => file.endsWith(".json"));
 
-      price: pkg.price,
+    const packageData = packageFiles.map((file) => {
+      const filePath = path.join(packageFolder, file);
+      const fileContent = fs.readFileSync(filePath, "utf-8");
 
-      discountedPrice: pkg.discountedPrice,
+      return JSON.parse(fileContent);
+    });
 
-      durationDays: pkg.durationDays,
+    const insertedPackages = await Package.insertMany(packageData);
 
-      durationNights: pkg.durationNights,
+    console.log(`${insertedPackages.length} Packages Seeded`);
 
-      coverImage: pkg.coverImage,
-
-      maxTravelers: pkg.maxTravelers,
-    }));
-    await Package.insertMany(formattedPackages);
-
-    // fetch the packages record's
     const packages = await Package.find();
-
-    console.log("Packages seeded");
 
     // countries
     await Country.insertMany(seededData.countriesData);

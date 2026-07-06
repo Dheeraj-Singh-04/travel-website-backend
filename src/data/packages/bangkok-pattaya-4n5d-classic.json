@@ -1,82 +1,81 @@
 {
-  "slug": "bali-4n5d-ubud-kuta",
-  "title": "Bali 4N5D Ubud+Kuta",
+  "slug": "bangkok-pattaya-4n5d-classic",
+  "title": "Bangkok–Pattaya 4N5D Classic",
   "category": "international",
   "subCategory": [
-    "Group Trips"
+    "Group Trips",
+    "Budget Friendly"
   ],
-  "status": "published",
+  "status": "active",
   "is_featured": true,
   "sort_order": 10,
-  "main_image_url": "https://drive.google.com/file/d/1GKQhHeA_3WRNM_Zlj-f_1Yv9BU7JPmzz/view?usp=drive_link",
+  "main_image_url": "",
   "video_url": "",
-  "image_urls": [
-    "https://drive.google.com/file/d/1ZuwQe2Ao326pbyiKNBXyq7MvVKNnCpPC/view?usp=drive_link"
-  ],
-  "price_num": 56600,
+  "image_urls": [],
+  "price_num": 69300,
   "destination_slugs": [
-    "bali"
+    "thailand"
   ],
   "data": {
     "duration": "4 NIGHTS / 5 DAYS",
-    "destinations": "Ubud → Kuta",
-    "tripType": "Comfort",
+    "destinations": "Bangkok → Pattaya",
+    "tripType": "Saver",
     "departureCities": "Delhi, Mumbai, Bengaluru, Hyderabad, Chennai, Kolkata",
     "groupSize": "Group (min 2 pax)",
-    "bestSeason": "Apr–Oct",
-    "country": "Bali",
-    "hotelCategory": "4-Star",
+    "bestSeason": "Year round",
+    "country": "Thailand",
+    "hotelCategory": "3-Star",
     "flights": "Return economy flights included (ex-selected Indian metro)",
     "visa": "Visa on Arrival (we assist with paperwork)",
     "mealsIncluded": "Breakfast",
-    "transfers": "Pvt",
+    "transfers": "SIC",
     "price": "",
-    "mrp": "75300",
+    "mrp": "92200",
     "discountText": "",
     "depositToBook": "15000",
     "rating": "",
     "reviews": "",
-    "description": "4 nights across Ubud → Kuta. Ubud is Bali's cultural and yoga capital, set among the rice terraces of central Bali. 4-Star stays, breakfast, pvt. Return flights included. Starting ₹56,600 per person on twin-share, all-inclusive of GST.",
-    "about": "4 nights and 5 days across Ubud → Kuta. The classic version of Bali — first-timer friendly, in a tested sequence. Ubud is Bali's cultural and yoga capital, set among the rice terraces of central Bali. Best window: Apr–Oct.",
+    "description": "4 nights across Bangkok → Pattaya. Bangkok stitches together the Grand Palace's gilded chedis, Wat Pho's reclining Buddha, the malls of Siam Square, the street-food alleys of Yaowarat (Chinatown), the rooftop bars of Silom, and the night markets of Chatuchak and Asiatique. 3-Star stays, breakfast, sic. Return flights included. Starting ₹47,100 per person on twin-share, all-inclusive of GST.",
+    "about": "4 nights and 5 days across Bangkok → Pattaya. The classic version of Thailand — first-timer friendly, in a tested sequence. Bangkok stitches together the Grand Palace's gilded chedis, Wat Pho's reclining Buddha, the malls of Siam Square, the street-food alleys of Yaowarat (Chinatown), the rooftop bars of Silom, and the night markets of Chatuchak and Asiatique. Best window: Year round.",
     "whyBook": "Every hotel on this itinerary has been personally inspected by our team — we name specific properties, not vague 'similar category' fudge. Daily plans are built by people who have actually done the route, with skip-the-line entry tickets and vetted local meal recommendations. Your trip captain is on WhatsApp 24×7 with the authority to fix problems on the ground — re-route a transfer, change a hotel, coordinate a doctor — without waiting for approval. TBO, MakeMyTrip Partner and Riya supplier access means you get real B2B rates with transparent margins, not aggregator markups.",
     "highlights": [
-      "Ubud: Ubud is Bali's cultural and yoga capital.",
-      "Kuta: Kuta is Bali's original surf-and-party beach.",
+      "Bangkok: Bangkok stitches together the Grand Palace's gilded chedis.",
+      "Pattaya: Pattaya is the beach city two hours from Bangkok.",
       "Entry tickets pre-booked at all major sights — no queueing.",
       "GST, taxes and basic travel insurance built into the price."
     ],
     "itinerary": [
       {
         "day": 1,
-        "title": "Arrival in Ubud",
+        "title": "Arrival in Bangkok",
         "desc": "Airport pickup by your TripFolks representative; 30-60 min transfer to hotel. Check-in, freshen up, evening at leisure to acclimatise. WhatsApp dinner recommendations nearby. Tomorrow's itinerary briefed over a quick call.",
         "meals": "Breakfast",
-        "stay": "4-Star"
+        "stay": "3-Star"
       },
       {
         "day": 2,
-        "title": "Ubud — Headline Sightseeing",
-        "desc": "Breakfast, then headline sightseeing in Ubud: Ubud is Bali's cultural and yoga capital. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
+        "title": "Bangkok — Headline Sightseeing",
+        "desc": "Breakfast, then headline sightseeing in Bangkok: Bangkok stitches together the Grand Palace's gilded chedis. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
         "meals": "Breakfast",
-        "stay": "4-Star"
+        "stay": "3-Star"
       },
       {
         "day": 3,
-        "title": "Ubud → Kuta",
-        "desc": "After breakfast, check out and transfer to Kuta. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "title": "Bangkok → Pattaya",
+        "desc": "After breakfast, check out and transfer to Pattaya. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
         "meals": "Breakfast",
-        "stay": "4-Star"
+        "stay": "3-Star"
       },
       {
         "day": 4,
-        "title": "Kuta — City Walk + Free Afternoon",
-        "desc": "Breakfast, then headline sightseeing in Kuta: Kuta is Bali's original surf-and-party beach. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
+        "title": "Pattaya — City Walk + Free Afternoon",
+        "desc": "Breakfast, then headline sightseeing in Pattaya: Pattaya is the beach city two hours from Bangkok. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
         "meals": "Breakfast",
-        "stay": "4-Star"
+        "stay": "3-Star"
       },
       {
         "day": 5,
-        "title": "Departure from Kuta",
+        "title": "Departure from Pattaya",
         "desc": "Relaxed breakfast. Pack and check-out by 11 AM (late check-out arranged if needed). Airport transfer with full buffer for check-in. WhatsApp support stays active till you board.",
         "meals": "Breakfast",
         "stay": "Departure"
@@ -84,113 +83,119 @@
     ],
     "hotels": [
       {
-        "city": "Ubud",
-        "hotel": "Ubud Wana Resort",
+        "city": "Bangkok",
+        "hotel": "Bangkok Cha Da Hotel",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Sri Bungalows Ubud",
+        "city": "Bangkok",
+        "hotel": "Furama Silom Bangkok",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Honeymoon Guesthouse",
+        "city": "Bangkok",
+        "hotel": "Bangkok City Hotel",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Alaya Resort Ubud",
+        "city": "Bangkok",
+        "hotel": "Novotel Bangkok Sukhumvit 20",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Komaneka at Bisma",
+        "city": "Bangkok",
+        "hotel": "Holiday Inn Bangkok Sukhumvit",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Element Bali Ubud (Marriott)",
+        "city": "Bangkok",
+        "hotel": "Hotel Indigo Bangkok",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Four Seasons Resort Bali at Sayan",
+        "city": "Bangkok",
+        "hotel": "Bangkok Marriott Marquis Queen's Park",
         "category": "premium",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "Mandapa a Ritz-Carlton Reserve",
+        "city": "Bangkok",
+        "hotel": "The Sukhothai Bangkok",
         "category": "premium",
         "nights": ""
       },
       {
-        "city": "Ubud",
-        "hotel": "COMO Shambhala Estate",
+        "city": "Bangkok",
+        "hotel": "Mandarin Oriental Bangkok",
         "category": "premium",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Bali Garden Beach Resort",
+        "city": "Pattaya",
+        "hotel": "Mike Hotel Pattaya",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Hotel Kuta Central Park",
+        "city": "Pattaya",
+        "hotel": "Sun Beach Hotel Pattaya",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Hard Rock Hotel Bali Standard",
+        "city": "Pattaya",
+        "hotel": "Areca Lodge",
         "category": "standard",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Discovery Kartika Plaza Hotel",
+        "city": "Pattaya",
+        "hotel": "Centara Pattaya Hotel",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Sheraton Bali Kuta Resort",
+        "city": "Pattaya",
+        "hotel": "Holiday Inn Pattaya",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Hotel Indigo Bali Seminyak Beach (Kuta wing)",
+        "city": "Pattaya",
+        "hotel": "Hard Rock Hotel Pattaya",
         "category": "deluxe",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Sheraton Bali Kuta Resort Premium",
+        "city": "Pattaya",
+        "hotel": "Royal Cliff Grand Hotel",
         "category": "premium",
         "nights": ""
       },
       {
-        "city": "Kuta",
-        "hotel": "Hard Rock Hotel Bali Premium",
+        "city": "Pattaya",
+        "hotel": "Cape Dara Resort",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Hilton Pattaya",
         "category": "premium",
         "nights": ""
       }
     ],
     "inclusions": [
       "Return economy flights from selected Indian metro",
-      "4N accommodation in 4-Star on twin-share basis",
+      "4N accommodation in 3-Star on twin-share basis",
       "Breakfast as per day plan",
-      "Pvt for all airport and inter-city transfers",
+      "SIC for all airport and inter-city transfers",
       "All sightseeing and entry tickets per the day plan",
       "Dedicated trip captain + 24×7 WhatsApp support",
       "Basic travel insurance (up to age 60)",
@@ -210,89 +215,89 @@
     "pricingTiersList": [
       {
         "tier": "Standard (3-Star)",
-        "landOnlyNum": 43500,
-        "fullPkgNum": 43500,
-        "landOnly": 43500,
-        "fullPackage": 43500,
+        "landOnlyNum": 47100,
+        "fullPkgNum": 47100,
+        "landOnly": 47100,
+        "fullPackage": 47100,
         "details": "3-star branded hotels on twin-share; standard sightseeing in shared coach (SIC) where available. Best for first-time travellers and group budgets — covers all headline sights at the lowest price point."
       },
       {
         "tier": "Deluxe (4-Star) — Recommended",
-        "landOnlyNum": 56600,
-        "fullPkgNum": 56600,
-        "landOnly": 56600,
-        "fullPackage": 56600,
+        "landOnlyNum": 69300,
+        "fullPkgNum": 69300,
+        "landOnly": 69300,
+        "fullPackage": 69300,
         "details": "4-star centrally-located hotels with daily breakfast; private vehicle for all transfers and sightseeing. Our most-booked tier — better stays, smoother pace, ~30% more than Standard for a noticeable upgrade."
       },
       {
         "tier": "Premium (5-Star)",
-        "landOnlyNum": 90700,
-        "fullPkgNum": 90700,
-        "landOnly": 90700,
-        "fullPackage": 90700,
+        "landOnlyNum": 103700,
+        "fullPkgNum": 103700,
+        "landOnly": 103700,
+        "fullPackage": 103700,
         "details": "5-star or luxury boutique hotels with upgraded room category; fully private SUV and curated experiences (spa, private dining). For honeymoons, anniversary trips, and travellers who want a slower, premium-feel pace throughout."
       }
     ],
     "batches": [
       {
-        "dateRange": "01 Apr 2026",
+        "dateRange": "01 Oct 2026",
         "status": "Available",
         "priceOffset": 0
       },
       {
-        "dateRange": "15 Apr 2026",
+        "dateRange": "15 Oct 2026",
         "status": "Available",
         "priceOffset": 0
       },
       {
-        "dateRange": "01 May 2026",
+        "dateRange": "01 Nov 2026",
         "status": "Available",
         "priceOffset": 0
       },
       {
-        "dateRange": "15 May 2026",
+        "dateRange": "15 Nov 2026",
         "status": "Available",
         "priceOffset": 0
       },
       {
-        "dateRange": "01 Jun 2026",
+        "dateRange": "01 Dec 2026",
         "status": "Available",
         "priceOffset": 0
       },
       {
-        "dateRange": "15 Jun 2026",
+        "dateRange": "15 Dec 2026",
         "status": "Available",
         "priceOffset": 0
       }
     ],
     "paymentSchedule": [
-      "25% non-refundable advance to confirm hotels, flights and visa processing",
-      "50% balance due 30 days before travel",
-      "Final 25% due 15 days before travel",
-      "For bookings within 30 days: full amount due at booking",
-      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      {
+        "title": "Installment 1",
+        "amount": "25% non-refundable advance to confirm hotels, flights and visa processing"
+      },
+      {
+        "title": "Installment 2",
+        "amount": "50% balance due 30 days before travel"
+      },
+      {
+        "title": "Installment 3",
+        "amount": "Final 25% due 15 days before travel"
+      },
+      {
+        "title": "Installment 4",
+        "amount": "For bookings within 30 days: full amount due at booking"
+      },
+      {
+        "title": "Installment 5",
+        "amount": "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+      }
     ],
     "cancellationPolicy": [
-      {
-        "timing": "More than 30 days before departure",
-        "fee": "60% refund of total tour cost"
-      },
-      {
-        "timing": "Between 15-30 days before departure",
-        "fee": "25% refund of total tour cost"
-      },
-      {
-        "timing": "Less than 15 days before departure or no-show",
-        "fee": "No refund; full amount forfeited"
-      },
-      {
-        "timing": "Air tickets, visa fees, non-refundable third-party services",
-        "fee": "100% non-refundable from issuance"
-      },
-      {
-        "timing": "Refunds processed within 15-30 working days via original payment channel",
-        "fee": "As applicable"
-      }
+      "More than 30 days before departure - 60% refund of total tour cost",
+      "Between 15-30 days before departure - 25% refund of total tour cost",
+      "Less than 15 days before departure or no-show - No refund; full amount forfeited",
+      "Air tickets, visa fees, non-refundable third-party services - 100% non-refundable from issuance",
+      "Refunds processed within 15-30 working days via original payment channel - As applicable"
     ],
     "amendments": [
       "One free date change allowed if requested more than 60 days before travel, same package and season",
@@ -307,69 +312,44 @@
       "Liability is limited to the package value paid"
     ],
     "whatToPack": [
-      {
-        "category": "Documents",
-        "items": [
-          "Original passport (valid 6+ months from return) + photocopy",
-          "Printed visa approval & supporting documents",
-          "Flight tickets, hotel vouchers, insurance PDF (we email 5 days before travel)",
-          "PAN & Aadhaar for India-side transactions"
-        ]
-      },
-      {
-        "category": "Clothing & Essentials",
-        "items": [
-          "Layered clothing appropriate to season",
-          "Comfortable walking shoes (already broken in)",
-          "One smart-casual outfit for nicer dinners",
-          "Light rain jacket in shoulder season",
-          "Daypack for sightseeing"
-        ]
-      },
-      {
-        "category": "Tech & Gadgets",
-        "items": [
-          "Universal travel adaptor (most countries differ from India's plug type)",
-          "Power bank under 100Wh (flight regulation)",
-          "Destination eSIM (Airalo, Holafly) or international roaming",
-          "Camera with spare batteries"
-        ]
-      },
-      {
-        "category": "Health & Personal Care",
-        "items": [
-          "Personal medication for the trip + 2-3 days extra",
-          "Basic first-aid (bandages, antiseptic, ORS)",
-          "Paracetamol, anti-diarrhoeal, prescription meds",
-          "Toiletries (resorts provide basics but bring personal preferences)",
-          "Mosquito repellent for tropical/wildlife destinations"
-        ]
-      },
-      {
-        "category": "Money & Cards",
-        "items": [
-          "Forex card pre-loaded with destination currency (Niyo / Wise / BookMyForex)",
-          "Some destination-currency cash for tips and small purchases",
-          "One backup card with no forex markup",
-          "INR for airport transfers and post-return expenses"
-        ]
-      }
+      "Original passport (valid 6+ months from return) + photocopy",
+      "Printed visa approval & supporting documents",
+      "Flight tickets, hotel vouchers, insurance PDF (we email 5 days before travel)",
+      "PAN & Aadhaar for India-side transactions",
+      "Layered clothing appropriate to season",
+      "Comfortable walking shoes (already broken in)",
+      "One smart-casual outfit for nicer dinners",
+      "Light rain jacket in shoulder season",
+      "Daypack for sightseeing",
+      "Universal travel adaptor (most countries differ from India's plug type)",
+      "Power bank under 100Wh (flight regulation)",
+      "Destination eSIM (Airalo, Holafly) or international roaming",
+      "Camera with spare batteries",
+      "Personal medication for the trip + 2-3 days extra",
+      "Basic first-aid (bandages, antiseptic, ORS)",
+      "Paracetamol, anti-diarrhoeal, prescription meds",
+      "Toiletries (resorts provide basics but bring personal preferences)",
+      "Mosquito repellent for tropical/wildlife destinations",
+      "Forex card pre-loaded with destination currency (Niyo / Wise / BookMyForex)",
+      "Some destination-currency cash for tips and small purchases",
+      "One backup card with no forex markup",
+      "INR for airport transfers and post-return expenses"
     ],
     "faqs": [
       {
-        "question": "What is the starting price for the Bali 4N5D Ubud+Kuta package?",
-        "answer": "Starting at ₹56,600 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹43,500; Premium tier from ₹90,700. Full package with flights from ₹56,600."
+        "question": "What is the starting price for the Bangkok–Pattaya 4N5D Classic package?",
+        "answer": "Starting at ₹69,300 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹47,100; Premium tier from ₹103,700. Full package with flights from ₹69,300."
       },
       {
         "question": "When is the best time to book this trip?",
-        "answer": "Recommended window: Apr–Oct. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
+        "answer": "Recommended window: Year round. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
       },
       {
         "question": "Are flights included?",
         "answer": "Return economy flights from your selected Indian metro are included in all tiers."
       },
       {
-        "question": "Will you handle the visa for Bali?",
+        "question": "Will you handle the visa for Thailand?",
         "answer": "Yes. Visa type: VOA. We handle the application end-to-end — you provide the documents (we send a checklist), we submit and track. Visa fee and processing are included in the package."
       },
       {
@@ -398,8 +378,8 @@
       }
     ],
     "trustSignals": [],
-    "seoTitle": "Bali 4N5D Ubud+Kuta — 4N/5D Bali Tour Package @ ₹56,600 | TripFolks",
-    "seoDescription": "Book Bali 4N5D Ubud+Kuta — 4N/5D Bali package from ₹56,600/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp reply in 15 min.",
-    "aeoSnippet": "The Bali 4N5D Ubud+Kuta package from TripFolks is a 4-night, 5-day trip covering Ubud, Kuta. Starting price is ₹56,600 per person on twin-share (all-inclusive of GST). Best travel window: Apr–Oct. Hotels: 4-Star. Meals: Breakfast. Flights: included. Book with ₹15,000 deposit; balance in 2 instalments."
+    "seoTitle": "Bangkok–Pattaya 4N5D Classic — 4N/5D Thailand Tour Package @ ₹69,300 | TripFolks",
+    "seoDescription": "Book Bangkok–Pattaya 4N5D Classic — 4N/5D Thailand package from ₹69,300/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp reply in 15",
+    "aeoSnippet": "The Bangkok–Pattaya 4N5D Classic package from TripFolks is a 4-night, 5-day trip covering Bangkok, Pattaya. Starting price is ₹69,300 per person on twin-share (all-inclusive of GST). Best travel window: Year round. Hotels: 3-Star. Meals: Breakfast. Flights: included. Book with ₹15,000 deposit; balance in 2 instalments."
   }
 }

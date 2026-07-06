@@ -1,0 +1,425 @@
+{
+  "slug": "puri-konark-bhubaneshwar",
+  "title": "Puri–Konark–Bhubaneshwar",
+  "category": "domestic",
+  "subCategory": [
+    "Group Trips"
+  ],
+  "status": "published",
+  "is_featured": false,
+  "sort_order": 100,
+  "main_image_url": "https://drive.google.com/file/d/1kS46ZX5H2m2X3JPQsiUmwQxfh1DD4XRl/view?usp=sharing",
+  "video_url": "",
+  "image_urls": [],
+  "price_num": 19800,
+  "destination_slugs": [
+    "odisha"
+  ],
+  "data": {
+    "duration": "4 NIGHTS / 5 DAYS",
+    "destinations": "Puri → Konark → Bhubaneshwar",
+    "tripType": "Comfort",
+    "departureCities": "Bhubaneswar, Kolkata, Delhi",
+    "groupSize": "Group (min 4 pax)",
+    "bestSeason": "Oct–Mar",
+    "country": "Odisha",
+    "hotelCategory": "3-Star",
+    "flights": "Not included — add-on quotes available",
+    "visa": "Not required (domestic trip)",
+    "mealsIncluded": "Breakfast+Dinner",
+    "transfers": "Pvt Sedan",
+    "price": "",
+    "mrp": "26300",
+    "discountText": "",
+    "depositToBook": "15000",
+    "rating": "",
+    "reviews": "",
+    "description": "4 nights across Puri → Konark → Bhubaneshwar. Puri is the seaside pilgrim town with the Jagannath Temple — one of the Char Dham pilgrimage sites — and the annual Rath Yatra each July. 3-Star stays, breakfast+dinner, pvt sedan. Flights add-on. Starting ₹19,800 per person on twin-share, all-inclusive of GST.",
+    "about": "4 nights and 5 days across Puri → Konark → Bhubaneshwar. The classic version of Odisha — first-timer friendly, in a tested sequence. Puri is the seaside pilgrim town with the Jagannath Temple — one of the Char Dham pilgrimage sites — and the annual Rath Yatra each July. Best window: Oct–Mar.",
+    "whyBook": "Every hotel on this itinerary has been personally inspected by our team — we name specific properties, not vague 'similar category' fudge. Daily plans are built by people who have actually done the route, with skip-the-line entry tickets and vetted local meal recommendations. Your trip captain is on WhatsApp 24×7 with the authority to fix problems on the ground — re-route a transfer, change a hotel, coordinate a doctor — without waiting for approval. TBO, MakeMyTrip Partner and Riya supplier access means you get real B2B rates with transparent margins, not aggregator markups.",
+    "highlights": [
+      "Puri: Puri is the seaside pilgrim town with the Jagannath Temple — one of the Char.",
+      "Konark: Konark's Sun Temple (UNESCO) is conceived as a giant chariot drawn by seven horses.",
+      "Bhubaneshwar: Bhubaneshwar.",
+      "Entry tickets pre-booked at all major sights — no queueing.",
+      "GST, taxes and basic travel insurance built into the price."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Puri",
+        "desc": "Airport pickup by your TripFolks representative; 30-60 min transfer to hotel. Check-in, freshen up, evening at leisure to acclimatise. WhatsApp dinner recommendations nearby. Tomorrow's itinerary briefed over a quick call.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 2,
+        "title": "Puri — Headline Sightseeing",
+        "desc": "Breakfast, then headline sightseeing in Puri: Puri is the seaside pilgrim town with the Jagannath Temple — one of the Char Dham pilgrimage sites — and. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 3,
+        "title": "Puri → Konark",
+        "desc": "After breakfast, check out and transfer to Konark. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 4,
+        "title": "Konark → Bhubaneshwar",
+        "desc": "After breakfast, check out and transfer to Bhubaneshwar. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 5,
+        "title": "Departure from Bhubaneshwar",
+        "desc": "Relaxed breakfast. Pack and check-out by 11 AM (late check-out arranged if needed). Airport transfer with full buffer for check-in. WhatsApp support stays active till you board.",
+        "meals": "Breakfast",
+        "stay": "Departure"
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Puri",
+        "hotel": "Hotel Sandy Beach",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Hotel Sea Pearl",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Hotel Holiday Resort",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Mayfair Heritage Puri",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Hotel Toshali Sands",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Hans Coco Palms",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Mayfair Heritage Puri Premium",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Puri",
+        "hotel": "Sterling Puri",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Konark",
+        "hotel": "OTDC Yatri Niwas Konark",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Konark",
+        "hotel": "Hotel Sandy Beach",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Konark",
+        "hotel": "Lotus Resort Konark",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Konark",
+        "hotel": "Royal Lotus Beach Resort",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Konark",
+        "hotel": "Lotus Eco Beach Resort Premium",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Hotel Empire",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Hotel Triple Tree",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "The Crown Hotel",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Mayfair Convention",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Trident Bhubaneswar",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Mayfair Lagoon",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "Trident Bhubaneswar Premium",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Bhubaneshwar",
+        "hotel": "ITC Welcomhotel Bhubaneswar",
+        "category": "premium",
+        "nights": ""
+      }
+    ],
+    "inclusions": [
+      "4N accommodation in 3-Star on twin-share basis",
+      "Breakfast+Dinner as per day plan",
+      "Pvt Sedan for all airport and inter-city transfers",
+      "All sightseeing and entry tickets per the day plan",
+      "Dedicated trip captain + 24×7 WhatsApp support",
+      "Basic travel insurance (up to age 60)",
+      "All taxes including 5% GST — no hidden charges"
+    ],
+    "exclusions": [
+      "Flights to/from departure city (add-on quotes available)",
+      "Lunches except where stated",
+      "Personal expenses (laundry, mini-bar, calls)",
+      "Tips & gratuities for drivers and guides",
+      "Optional activities not listed in itinerary",
+      "Camera/video fees at monuments",
+      "Anything not specified in inclusions",
+      "Costs due to force majeure (natural calamity, schedule changes)"
+    ],
+    "pricingTiersList": [
+      {
+        "tier": "Standard (3-Star)",
+        "landOnlyNum": 15300,
+        "fullPkgNum": 27300,
+        "landOnly": 15300,
+        "fullPackage": 27300,
+        "details": "3-star branded hotels on twin-share; standard sightseeing in shared coach (SIC) where available. Best for first-time travellers and group budgets — covers all headline sights at the lowest price point."
+      },
+      {
+        "tier": "Deluxe (4-Star) — Recommended",
+        "landOnlyNum": 19800,
+        "fullPkgNum": 31800,
+        "landOnly": 19800,
+        "fullPackage": 31800,
+        "details": "4-star centrally-located hotels with daily breakfast; private vehicle for all transfers and sightseeing. Our most-booked tier — better stays, smoother pace, ~30% more than Standard for a noticeable upgrade."
+      },
+      {
+        "tier": "Premium (5-Star)",
+        "landOnlyNum": 31800,
+        "fullPkgNum": 43800,
+        "landOnly": 31800,
+        "fullPackage": 43800,
+        "details": "5-star or luxury boutique hotels with upgraded room category; fully private SUV and curated experiences (spa, private dining). For honeymoons, anniversary trips, and travellers who want a slower, premium-feel pace throughout."
+      }
+    ],
+    "batches": [
+      {
+        "dateRange": "15 Mar 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Apr 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Apr 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 May 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 May 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Jun 2026",
+        "status": "Available",
+        "priceOffset": 0
+      }
+    ],
+    "paymentSchedule": [
+      "25% non-refundable advance to confirm hotels, flights and visa processing",
+      "50% balance due 30 days before travel",
+      "Final 25% due 15 days before travel",
+      "For bookings within 30 days: full amount due at booking",
+      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+    ],
+    "cancellationPolicy": [
+      {
+        "timing": "More than 30 days before departure",
+        "fee": "60% refund of total tour cost"
+      },
+      {
+        "timing": "Between 15-30 days before departure",
+        "fee": "25% refund of total tour cost"
+      },
+      {
+        "timing": "Less than 15 days before departure or no-show",
+        "fee": "No refund; full amount forfeited"
+      },
+      {
+        "timing": "Air tickets, visa fees, non-refundable third-party services",
+        "fee": "100% non-refundable from issuance"
+      },
+      {
+        "timing": "Refunds processed within 15-30 working days via original payment channel",
+        "fee": "As applicable"
+      }
+    ],
+    "amendments": [
+      "One free date change allowed if requested more than 60 days before travel, same package and season",
+      "Date changes within 60 days: subject to hotel/flight rate differences",
+      "Major itinerary changes (city additions, tier upgrades, day extensions): processed as new bookings, advance adjusted",
+      "Name changes on tickets: subject to airline/PNR rules — some carriers charge amendment fees"
+    ],
+    "forceMajeure": [
+      "In case of natural calamities, political unrest, pandemics, airline disruptions or government restrictions: TripFolks will re-arrange the trip at additional cost where possible",
+      "Refunds processed only after recovering whatever is recoverable from suppliers (hotels, airlines, DMCs)",
+      "We keep you informed at every step and act in your best interest",
+      "Liability is limited to the package value paid"
+    ],
+    "whatToPack": [
+      {
+        "category": "Documents",
+        "items": [
+          "Government photo ID (Aadhaar / DL / passport) + photocopy",
+          "Confirmed flight/train tickets, hotel vouchers (we email 5 days before travel)",
+          "Two backup IDs",
+          "PAN card for hotel check-in in some states"
+        ]
+      },
+      {
+        "category": "Clothing & Essentials",
+        "items": [
+          "Layered clothing appropriate to season",
+          "Comfortable walking shoes (already broken in)",
+          "One smart-casual outfit for nicer dinners",
+          "Light rain jacket in shoulder season",
+          "Daypack for sightseeing"
+        ]
+      },
+      {
+        "category": "Tech & Gadgets",
+        "items": [
+          "Phone charger + power bank",
+          "Camera or phone with good camera",
+          "Portable Bluetooth speaker (optional)",
+          "Daypack with rain cover"
+        ]
+      },
+      {
+        "category": "Health & Personal Care",
+        "items": [
+          "Personal medication for the trip + 2-3 days extra",
+          "Basic first-aid (bandages, antiseptic, ORS)",
+          "Paracetamol, anti-diarrhoeal, prescription meds",
+          "Toiletries (resorts provide basics but bring personal preferences)",
+          "Mosquito repellent for tropical/wildlife destinations"
+        ]
+      },
+      {
+        "category": "Money & Cards",
+        "items": [
+          "One backup ATM/debit card",
+          "Some INR cash for tips and small purchases",
+          "UPI works in most tourist towns — keep GPay/PhonePe active"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the starting price for the Puri–Konark–Bhubaneshwar package?",
+        "answer": "Starting at ₹19,800 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹15,300; Premium tier from ₹31,800. Full package with flights from ₹31,800."
+      },
+      {
+        "question": "When is the best time to book this trip?",
+        "answer": "Recommended window: Oct–Mar. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
+      },
+      {
+        "question": "Are flights included?",
+        "answer": "Land tiers are land-only (no flights). Full Package tier includes return economy flights from your selected Indian metro. Live fares are locked the day you confirm."
+      },
+      {
+        "question": "What documents do I need?",
+        "answer": "Valid government photo ID for hotel check-in and any flights. For restricted-zone destinations (Ladakh, Sikkim, Arunachal, Nagaland), we handle the Inner Line Permit — share scanned IDs 7-10 days before travel."
+      },
+      {
+        "question": "Can I customise the itinerary?",
+        "answer": "Yes — every element is customisable. Common changes: hotel category up/down, adding/removing cities, extending by 1-2 days, switching group to private. WhatsApp us your changes; revised quote in 24 hours."
+      },
+      {
+        "question": "What's the cancellation policy?",
+        "answer": "Cancel 30+ days out: 60% refund. Cancel 15-30 days out: 25% refund. Cancel within 15 days or no-show: no refund. Air tickets, visa fees and third-party non-refundables are 100% non-refundable from issuance. Refunds processed in 15-30 working days."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "25% on booking, 50% at 30 days before travel, 25% at 15 days before. UPI, NEFT and bank transfer have no extra charge. Cards have 2.5% gateway. International cards (Visa/MasterCard) accepted with applicable forex markup."
+      },
+      {
+        "question": "Is this trip suitable for solo / family / large group?",
+        "answer": "Yes to all. Solo: single-occupancy supplement applies (~35% above twin-share). Family: child rates apply (free under 5, 50% age 5-11, full above 12). Group of 6+: ask for group rates — usually 10-15% better than published price."
+      },
+      {
+        "question": "What if something goes wrong during the trip?",
+        "answer": "Your trip captain is on WhatsApp 24×7 with authority to fix problems — reroute transfers, change hotels on overbooking, coordinate doctor visits, manage flight delays."
+      },
+      {
+        "question": "Why book with TripFolks vs Wanderon, MMT or other operators?",
+        "answer": "TripFolks works directly with TBO, MMT Partner and Riya as a B2B travel operator — real net rates, transparent margins, no aggregator markup. Every hotel is pre-inspected by our team, and the trip captain is a real human on WhatsApp 24×7."
+      }
+    ],
+    "trustSignals": [],
+    "seoTitle": "Puri–Konark–Bhubaneshwar — 4N/5D Odisha Tour Package @ ₹19,800 | TripFolks",
+    "seoDescription": "Book Puri–Konark–Bhubaneshwar — 4N/5D Odisha package from ₹19,800/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp reply in 15 min.",
+    "aeoSnippet": "The Puri–Konark–Bhubaneshwar package from TripFolks is a 4-night, 5-day trip covering Puri, Konark, Bhubaneshwar. Starting price is ₹19,800 per person on twin-share (all-inclusive of GST). Best travel window: Oct–Mar. Hotels: 3-Star. Meals: Breakfast+Dinner. Flights: add-on available. Book with ₹15,000 deposit; balance in 2 instalments."
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "slug": "ladakh-bike-trip-manali-leh-srinagar",
+  "title": "Ladakh Bike Trip (Manali–Leh–Srinagar)",
+  "category": "domestic",
+  "subCategory": [
+    "Group Trips",
+    "Adventure",
+    "Budget Friendly",
+    "Winter Specials"
+  ],
+  "status": "published",
+  "is_featured": false,
+  "sort_order": 100,
+  "main_image_url": "https://drive.google.com/file/d/1QEnpN7PCEcvmTwrPMVjrGzksaaWBIcCF/view?usp=drive_link",
+  "video_url": "",
+  "image_urls": [
+    "https://drive.google.com/file/d/1aAsIX_wo6MOwmd3vA2rKkBhe50hevw3v/view?usp=drive_link"
+  ],
+  "price_num": 68200,
+  "destination_slugs": [
+    "ladakh"
+  ],
+  "data": {
+    "duration": "10 NIGHTS / 11 DAYS",
+    "destinations": "Manali → Leh → Nubra → Pangong → Srinagar",
+    "tripType": "Saver",
+    "departureCities": "Delhi, Chandigarh, Mumbai",
+    "groupSize": "Group (min 8 pax)",
+    "bestSeason": "Jul–Sep",
+    "country": "Ladakh",
+    "hotelCategory": "Camps + 2-Star",
+    "flights": "Not included — add-on quotes available",
+    "visa": "Inner Line Permit (we process it)",
+    "mealsIncluded": "All Meals",
+    "transfers": "Royal Enfield",
+    "price": "",
+    "mrp": "90700",
+    "discountText": "",
+    "depositToBook": "15000",
+    "rating": "",
+    "reviews": "",
+    "description": "10 nights across Manali → Leh → Nubra → Pangong. Manali divides into Old Manali (cafés, prayer flags, the Hidimba Devi temple in deodar forest) and the busier Mall Road tourist circuit. Camps + 2-Star stays, all meals, royal enfield. Flights add-on. Starting ₹46,400 per person on twin-share, all-inclusive of GST.",
+    "about": "10 nights and 11 days across Manali → Leh → Nubra → Pangong. A Royal Enfield convoy with backup vehicle for luggage and any mechanical help. Manali divides into Old Manali (cafés, prayer flags, the Hidimba Devi temple in deodar forest) and the busier Mall Road tourist circuit. Best window: Jul–Sep.",
+    "whyBook": "Every hotel on this itinerary has been personally inspected by our team — we name specific properties, not vague 'similar category' fudge. Daily plans are built by people who have actually done the route, with skip-the-line entry tickets and vetted local meal recommendations. Your trip captain is on WhatsApp 24×7 with the authority to fix problems on the ground — re-route a transfer, change a hotel, coordinate a doctor — without waiting for approval. TBO, MakeMyTrip Partner and Riya supplier access means you get real B2B rates with transparent margins, not aggregator markups.",
+    "highlights": [
+      "Manali: Manali divides into Old Manali (cafés.",
+      "Leh: Leh.",
+      "Nubra: Nubra Valley opens up after the high-altitude crossing of Khardung La.",
+      "Pangong: Pangong Tso is the 134-kilometre-long lake that turns from cobalt to turquoise to slate-grey across.",
+      "Royal Enfield with backup vehicle for the full ride.",
+      "Entry tickets pre-booked at all major sights — no queueing."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Manali",
+        "desc": "Airport pickup by your TripFolks representative; 30-60 min transfer to hotel. Check-in, freshen up, evening at leisure to acclimatise. WhatsApp dinner recommendations nearby. Tomorrow's itinerary briefed over a quick call.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 2,
+        "title": "Manali — Ride to Next Stop",
+        "desc": "Quick breakfast, bike check, mount up. Route mapped with photo stops. Manali divides into Old Manali (cafés. Support vehicle stays with convoy. Group dinner. Rest for tomorrow.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 3,
+        "title": "Manali → Leh",
+        "desc": "After breakfast, check out and transfer to Leh. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 4,
+        "title": "Leh → Nubra",
+        "desc": "After breakfast, check out and transfer to Nubra. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 5,
+        "title": "Nubra → Pangong",
+        "desc": "After breakfast, check out and transfer to Pangong. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 6,
+        "title": "Pangong → Srinagar",
+        "desc": "After breakfast, check out and transfer to Srinagar. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 7,
+        "title": "Srinagar — Rest + Sightseeing",
+        "desc": "Quick breakfast, bike check, mount up. Route mapped with photo stops. Srinagar is Kashmir's lake-side capital. Support vehicle stays with convoy. Group dinner. Rest for tomorrow.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 8,
+        "title": "Srinagar — Long Highway Day",
+        "desc": "Quick breakfast, bike check, mount up. Route mapped with photo stops. Srinagar is Kashmir's lake-side capital. Support vehicle stays with convoy. Group dinner. Rest for tomorrow.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 9,
+        "title": "Srinagar — Loop Ride",
+        "desc": "Quick breakfast, bike check, mount up. Route mapped with photo stops. Srinagar is Kashmir's lake-side capital. Support vehicle stays with convoy. Group dinner. Rest for tomorrow.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 10,
+        "title": "Srinagar — Ride to Next Stop",
+        "desc": "Quick breakfast, bike check, mount up. Route mapped with photo stops. Srinagar is Kashmir's lake-side capital. Support vehicle stays with convoy. Group dinner. Rest for tomorrow.",
+        "meals": "All Meals",
+        "stay": "Camps"
+      },
+      {
+        "day": 11,
+        "title": "Departure from Srinagar",
+        "desc": "Relaxed breakfast. Pack and check-out by 11 AM (late check-out arranged if needed). Airport transfer with full buffer for check-in. WhatsApp support stays active till you board.",
+        "meals": "Breakfast",
+        "stay": "Departure"
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Manali",
+        "hotel": "Hotel Snow Valley Resorts",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Hotel Apple Country",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Hotel Honeymoon Inn",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "The Holiday Heights",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Solang Valley Resort",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Manuallaya Resorts",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "The Himalayan",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Span Resort & Spa",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Manali",
+        "hotel": "Manu Allaya Resort Spa",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Hotel Lasermo",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Hotel Royal Palace",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Hotel Padma",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Hotel Singge Palace",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Hotel Mahey Retreat",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Saboo Resorts",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "The Grand Dragon Ladakh",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "The Zen Ladakh",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Leh",
+        "hotel": "Stok Palace Heritage",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "Desert Himalaya Resort",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "Hotel Mystique Meadows Camps",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "Nubra Eco Lodge",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "Lchang Nang Retreat (basic block)",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "Lchang Nang Retreat — The House of Trees",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Nubra",
+        "hotel": "TUTC Chamba Camp Diskit",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "Pangong Camp Resort",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "Martsemik Camp",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "Sumda Tso Camp",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "The Pangong Sarai",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "Camp Redstart Pangong",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "Pangong Inn Premium Suites",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pangong",
+        "hotel": "TUTC Chamba Camp Pangong (seasonal)",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Hotel Rosewood Houseboat",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Hotel Hill Top Srinagar",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Hotel Akbar",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Hotel Heevan",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "WelcomHotel Pine N Peak",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "The Centaur Lake View",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "The Lalit Grand Palace",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Vivanta Dal View",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Srinagar",
+        "hotel": "Taj Vivanta Dal View",
+        "category": "premium",
+        "nights": ""
+      }
+    ],
+    "inclusions": [
+      "10N accommodation in Camps + 2-Star on twin-share basis",
+      "All Meals as per day plan",
+      "Royal Enfield for all airport and inter-city transfers",
+      "All sightseeing and entry tickets per the day plan",
+      "Dedicated trip captain + 24×7 WhatsApp support",
+      "Basic travel insurance (up to age 60)",
+      "All taxes including 5% GST — no hidden charges"
+    ],
+    "exclusions": [
+      "Flights to/from departure city (add-on quotes available)",
+      "Lunches except where stated",
+      "Personal expenses (laundry, mini-bar, calls)",
+      "Tips & gratuities for drivers and guides",
+      "Optional activities not listed in itinerary",
+      "Camera/video fees at monuments",
+      "Anything not specified in inclusions",
+      "Costs due to force majeure (natural calamity, schedule changes)"
+    ],
+    "pricingTiersList": [
+      {
+        "tier": "Standard (3-Star)",
+        "landOnlyNum": 46400,
+        "fullPkgNum": 58400,
+        "landOnly": 46400,
+        "fullPackage": 58400,
+        "details": "3-star branded hotels on twin-share; standard sightseeing in shared coach (SIC) where available. Best for first-time travellers and group budgets — covers all headline sights at the lowest price point."
+      },
+      {
+        "tier": "Deluxe (4-Star) — Recommended",
+        "landOnlyNum": 68200,
+        "fullPkgNum": 80200,
+        "landOnly": 68200,
+        "fullPackage": 80200,
+        "details": "4-star centrally-located hotels with daily breakfast; private vehicle for all transfers and sightseeing. Our most-booked tier — better stays, smoother pace, ~30% more than Standard for a noticeable upgrade."
+      },
+      {
+        "tier": "Premium (5-Star)",
+        "landOnlyNum": 102100,
+        "fullPkgNum": 114100,
+        "landOnly": 102100,
+        "fullPackage": 114100,
+        "details": "5-star or luxury boutique hotels with upgraded room category; fully private SUV and curated experiences (spa, private dining). For honeymoons, anniversary trips, and travellers who want a slower, premium-feel pace throughout."
+      }
+    ],
+    "batches": [
+      {
+        "dateRange": "01 Jul 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Jul 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Aug 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Aug 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Sep 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Sep 2026",
+        "status": "Available",
+        "priceOffset": 0
+      }
+    ],
+    "paymentSchedule": [
+      "25% non-refundable advance to confirm hotels, flights and visa processing",
+      "50% balance due 30 days before travel",
+      "Final 25% due 15 days before travel",
+      "For bookings within 30 days: full amount due at booking",
+      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+    ],
+    "cancellationPolicy": [
+      {
+        "timing": "More than 30 days before departure",
+        "fee": "60% refund of total tour cost"
+      },
+      {
+        "timing": "Between 15-30 days before departure",
+        "fee": "25% refund of total tour cost"
+      },
+      {
+        "timing": "Less than 15 days before departure or no-show",
+        "fee": "No refund; full amount forfeited"
+      },
+      {
+        "timing": "Air tickets, visa fees, non-refundable third-party services",
+        "fee": "100% non-refundable from issuance"
+      },
+      {
+        "timing": "Refunds processed within 15-30 working days via original payment channel",
+        "fee": "As applicable"
+      }
+    ],
+    "amendments": [
+      "One free date change allowed if requested more than 60 days before travel, same package and season",
+      "Date changes within 60 days: subject to hotel/flight rate differences",
+      "Major itinerary changes (city additions, tier upgrades, day extensions): processed as new bookings, advance adjusted",
+      "Name changes on tickets: subject to airline/PNR rules — some carriers charge amendment fees"
+    ],
+    "forceMajeure": [
+      "In case of natural calamities, political unrest, pandemics, airline disruptions or government restrictions: TripFolks will re-arrange the trip at additional cost where possible",
+      "Refunds processed only after recovering whatever is recoverable from suppliers (hotels, airlines, DMCs)",
+      "We keep you informed at every step and act in your best interest",
+      "Liability is limited to the package value paid"
+    ],
+    "whatToPack": [
+      {
+        "category": "Documents",
+        "items": [
+          "Government photo ID (Aadhaar / DL / passport) + photocopy",
+          "Confirmed flight/train tickets, hotel vouchers (we email 5 days before travel)",
+          "Two backup IDs",
+          "PAN card for hotel check-in in some states"
+        ]
+      },
+      {
+        "category": "Adventure / High-Altitude Gear",
+        "items": [
+          "Trekking shoes with ankle support (broken in, not brand new)",
+          "Thermals, fleece, windproof shell, rain layer",
+          "Trekking pole; headlamp with spare batteries",
+          "SPF 50+ sunscreen, UV sunglasses, lip balm",
+          "Diamox for altitude (consult doctor first)"
+        ]
+      },
+      {
+        "category": "Tech & Gadgets",
+        "items": [
+          "Phone charger + power bank",
+          "Camera or phone with good camera",
+          "Portable Bluetooth speaker (optional)",
+          "Daypack with rain cover"
+        ]
+      },
+      {
+        "category": "Health & Personal Care",
+        "items": [
+          "Personal medication for the trip + 2-3 days extra",
+          "Basic first-aid (bandages, antiseptic, ORS)",
+          "Paracetamol, anti-diarrhoeal, prescription meds",
+          "Toiletries (resorts provide basics but bring personal preferences)",
+          "Mosquito repellent for tropical/wildlife destinations"
+        ]
+      },
+      {
+        "category": "Money & Cards",
+        "items": [
+          "One backup ATM/debit card",
+          "Some INR cash for tips and small purchases",
+          "UPI works in most tourist towns — keep GPay/PhonePe active"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the starting price for the Ladakh Bike Trip (Manali–Leh–Srinagar) package?",
+        "answer": "Starting at ₹68,200 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹46,400; Premium tier from ₹102,100. Full package with flights from ₹80,200."
+      },
+      {
+        "question": "When is the best time to book this trip?",
+        "answer": "Recommended window: Jul–Sep. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
+      },
+      {
+        "question": "Are flights included?",
+        "answer": "Land tiers are land-only (no flights). Full Package tier includes return economy flights from your selected Indian metro. Live fares are locked the day you confirm."
+      },
+      {
+        "question": "What documents do I need?",
+        "answer": "Valid government photo ID for hotel check-in and any flights. For restricted-zone destinations (Ladakh, Sikkim, Arunachal, Nagaland), we handle the Inner Line Permit — share scanned IDs 7-10 days before travel."
+      },
+      {
+        "question": "Can I customise the itinerary?",
+        "answer": "Yes — every element is customisable. Common changes: hotel category up/down, adding/removing cities, extending by 1-2 days, switching group to private. WhatsApp us your changes; revised quote in 24 hours."
+      },
+      {
+        "question": "What's the cancellation policy?",
+        "answer": "Cancel 30+ days out: 60% refund. Cancel 15-30 days out: 25% refund. Cancel within 15 days or no-show: no refund. Air tickets, visa fees and third-party non-refundables are 100% non-refundable from issuance. Refunds processed in 15-30 working days."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "25% on booking, 50% at 30 days before travel, 25% at 15 days before. UPI, NEFT and bank transfer have no extra charge. Cards have 2.5% gateway. International cards (Visa/MasterCard) accepted with applicable forex markup."
+      },
+      {
+        "question": "Is this trip suitable for solo / family / large group?",
+        "answer": "Yes to all. Solo: single-occupancy supplement applies (~35% above twin-share). Family: child rates apply (free under 5, 50% age 5-11, full above 12). Group of 6+: ask for group rates — usually 10-15% better than published price."
+      },
+      {
+        "question": "What if something goes wrong during the trip?",
+        "answer": "Your trip captain is on WhatsApp 24×7 with authority to fix problems — reroute transfers, change hotels on overbooking, coordinate doctor visits, manage flight delays."
+      },
+      {
+        "question": "Why book with TripFolks vs Wanderon, MMT or other operators?",
+        "answer": "TripFolks works directly with TBO, MMT Partner and Riya as a B2B travel operator — real net rates, transparent margins, no aggregator markup. Every hotel is pre-inspected by our team, and the trip captain is a real human on WhatsApp 24×7."
+      }
+    ],
+    "trustSignals": [],
+    "seoTitle": "Ladakh Bike Trip (Manali–Leh–Srinagar) — 10N/11D Ladakh Tour Package @ ₹68,200 | TripFolks",
+    "seoDescription": "Book Ladakh Bike Trip (Manali–Leh–Srinagar) — 10N/11D Ladakh package from ₹68,200/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp re",
+    "aeoSnippet": "The Ladakh Bike Trip (Manali–Leh–Srinagar) package from TripFolks is a 10-night, 11-day trip covering Manali, Leh, Nubra. Starting price is ₹68,200 per person on twin-share (all-inclusive of GST). Best travel window: Jul–Sep. Hotels: Camps + 2-Star. Meals: All Meals. Flights: add-on available. Book with ₹15,000 deposit; balance in 2 instalments."
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "slug": "valley-of-flowers-trek",
+  "title": "Valley of Flowers Trek",
+  "category": "domestic",
+  "subCategory": [
+    "Group Trips",
+    "Adventure",
+    "Budget Friendly",
+    "Winter Specials"
+  ],
+  "status": "published",
+  "is_featured": false,
+  "sort_order": 100,
+  "main_image_url": "https://drive.google.com/file/d/1yfIoGLgQyUjweCnkLgwtVwQnTCUB6A0C/view?usp=drive_link",
+  "video_url": "",
+  "image_urls": [
+    "https://drive.google.com/file/d/1budi_EbAwEUxoEmdf1EFcJlBT3p8IFPF/view?usp=drive_link",
+    "https://drive.google.com/file/d/13hEn4Y1J6XwekvveJg-W5SNWFUaZKikE/view?usp=drive_link"
+  ],
+  "price_num": 35200,
+  "destination_slugs": [
+    "uttarakhand"
+  ],
+  "data": {
+    "duration": "6 NIGHTS / 7 DAYS",
+    "destinations": "Auli",
+    "tripType": "Saver",
+    "departureCities": "Delhi, Dehradun",
+    "groupSize": "Group (min 8 pax)",
+    "bestSeason": "Jul–Aug",
+    "country": "Uttarakhand",
+    "hotelCategory": "Guesthouse + Camp",
+    "flights": "Not included — add-on quotes available",
+    "visa": "Not required (domestic trip)",
+    "mealsIncluded": "All Meals",
+    "transfers": "Tempo Trav",
+    "price": "",
+    "mrp": "46800",
+    "discountText": "",
+    "depositToBook": "15000",
+    "rating": "",
+    "reviews": "",
+    "description": "6 nights across Auli. Auli is Uttarakhand's premier ski destination, with a 4-kilometre cable car connecting Joshimath. Guesthouse + Camp stays, all meals, tempo trav. Flights add-on. Starting ₹23,900 per person on twin-share, all-inclusive of GST.",
+    "about": "6 nights and 7 days across Auli. A real Himalayan trek with the right pacing for altitude and acclimatisation. Auli is Uttarakhand's premier ski destination, with a 4-kilometre cable car connecting Joshimath. Best window: Jul–Aug.",
+    "whyBook": "Every hotel on this itinerary has been personally inspected by our team — we name specific properties, not vague 'similar category' fudge. Daily plans are built by people who have actually done the route, with skip-the-line entry tickets and vetted local meal recommendations. Your trip captain is on WhatsApp 24×7 with the authority to fix problems on the ground — re-route a transfer, change a hotel, coordinate a doctor — without waiting for approval. TBO, MakeMyTrip Partner and Riya supplier access means you get real B2B rates with transparent margins, not aggregator markups.",
+    "highlights": [
+      "Auli: Auli is Uttarakhand's premier ski destination.",
+      "Trek-led support; summit attempt timed for sunrise.",
+      "Entry tickets pre-booked at all major sights — no queueing.",
+      "GST, taxes and basic travel insurance built into the price."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Auli",
+        "desc": "Airport pickup by your TripFolks representative; 30-60 min transfer to hotel. Check-in, freshen up, evening at leisure to acclimatise. WhatsApp dinner recommendations nearby. Tomorrow's itinerary briefed over a quick call.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 2,
+        "title": "Auli — Trek to Next Camp",
+        "desc": "Early breakfast, gear check. Today's section calibrated for altitude and pace. Auli is Uttarakhand's premier ski destination en route. Hot dinner at camp. Early sleep — tomorrow starts before sunrise.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 3,
+        "title": "Auli — Acclimatisation Hike",
+        "desc": "Early breakfast, gear check. Today's section calibrated for altitude and pace. Auli is Uttarakhand's premier ski destination en route. Hot dinner at camp. Early sleep — tomorrow starts before sunrise.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 4,
+        "title": "Auli — Summit Day",
+        "desc": "Early breakfast, gear check. Today's section calibrated for altitude and pace. Auli is Uttarakhand's premier ski destination en route. Hot dinner at camp. Early sleep — tomorrow starts before sunrise.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 5,
+        "title": "Auli — Descent + Village",
+        "desc": "Early breakfast, gear check. Today's section calibrated for altitude and pace. Auli is Uttarakhand's premier ski destination en route. Hot dinner at camp. Early sleep — tomorrow starts before sunrise.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 6,
+        "title": "Auli — Trek to Next Camp",
+        "desc": "Early breakfast, gear check. Today's section calibrated for altitude and pace. Auli is Uttarakhand's premier ski destination en route. Hot dinner at camp. Early sleep — tomorrow starts before sunrise.",
+        "meals": "All Meals",
+        "stay": "Guesthouse"
+      },
+      {
+        "day": 7,
+        "title": "Departure from Auli",
+        "desc": "Relaxed breakfast. Pack and check-out by 11 AM (late check-out arranged if needed). Airport transfer with full buffer for check-in. WhatsApp support stays active till you board.",
+        "meals": "Breakfast",
+        "stay": "Departure"
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Auli",
+        "hotel": "Cliff Top Club Auli",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Auli",
+        "hotel": "Hotel Snow Crest",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Auli",
+        "hotel": "The Auli Resort",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Auli",
+        "hotel": "GMVN Auli Resort",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Auli",
+        "hotel": "The Snow Park Resort Auli (Premier wing)",
+        "category": "premium",
+        "nights": ""
+      }
+    ],
+    "inclusions": [
+      "6N accommodation in Guesthouse + Camp on twin-share basis",
+      "All Meals as per day plan",
+      "Tempo Trav for all airport and inter-city transfers",
+      "All sightseeing and entry tickets per the day plan",
+      "Dedicated trip captain + 24×7 WhatsApp support",
+      "Basic travel insurance (up to age 60)",
+      "All taxes including 5% GST — no hidden charges"
+    ],
+    "exclusions": [
+      "Flights to/from departure city (add-on quotes available)",
+      "Lunches except where stated",
+      "Personal expenses (laundry, mini-bar, calls)",
+      "Tips & gratuities for drivers and guides",
+      "Optional activities not listed in itinerary",
+      "Camera/video fees at monuments",
+      "Anything not specified in inclusions",
+      "Costs due to force majeure (natural calamity, schedule changes)"
+    ],
+    "pricingTiersList": [
+      {
+        "tier": "Standard (3-Star)",
+        "landOnlyNum": 23900,
+        "fullPkgNum": 35900,
+        "landOnly": 23900,
+        "fullPackage": 35900,
+        "details": "3-star branded hotels on twin-share; standard sightseeing in shared coach (SIC) where available. Best for first-time travellers and group budgets — covers all headline sights at the lowest price point."
+      },
+      {
+        "tier": "Deluxe (4-Star) — Recommended",
+        "landOnlyNum": 35200,
+        "fullPkgNum": 47200,
+        "landOnly": 35200,
+        "fullPackage": 47200,
+        "details": "4-star centrally-located hotels with daily breakfast; private vehicle for all transfers and sightseeing. Our most-booked tier — better stays, smoother pace, ~30% more than Standard for a noticeable upgrade."
+      },
+      {
+        "tier": "Premium (5-Star)",
+        "landOnlyNum": 52700,
+        "fullPkgNum": 64700,
+        "landOnly": 52700,
+        "fullPackage": 64700,
+        "details": "5-star or luxury boutique hotels with upgraded room category; fully private SUV and curated experiences (spa, private dining). For honeymoons, anniversary trips, and travellers who want a slower, premium-feel pace throughout."
+      }
+    ],
+    "batches": [
+      {
+        "dateRange": "01 Jul 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Jul 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Aug 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Aug 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Sep 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Sep 2026",
+        "status": "Available",
+        "priceOffset": 0
+      }
+    ],
+    "paymentSchedule": [
+      "25% non-refundable advance to confirm hotels, flights and visa processing",
+      "50% balance due 30 days before travel",
+      "Final 25% due 15 days before travel",
+      "For bookings within 30 days: full amount due at booking",
+      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+    ],
+    "cancellationPolicy": [
+      {
+        "timing": "More than 30 days before departure",
+        "fee": "60% refund of total tour cost"
+      },
+      {
+        "timing": "Between 15-30 days before departure",
+        "fee": "25% refund of total tour cost"
+      },
+      {
+        "timing": "Less than 15 days before departure or no-show",
+        "fee": "No refund; full amount forfeited"
+      },
+      {
+        "timing": "Air tickets, visa fees, non-refundable third-party services",
+        "fee": "100% non-refundable from issuance"
+      },
+      {
+        "timing": "Refunds processed within 15-30 working days via original payment channel",
+        "fee": "As applicable"
+      }
+    ],
+    "amendments": [
+      "One free date change allowed if requested more than 60 days before travel, same package and season",
+      "Date changes within 60 days: subject to hotel/flight rate differences",
+      "Major itinerary changes (city additions, tier upgrades, day extensions): processed as new bookings, advance adjusted",
+      "Name changes on tickets: subject to airline/PNR rules — some carriers charge amendment fees"
+    ],
+    "forceMajeure": [
+      "In case of natural calamities, political unrest, pandemics, airline disruptions or government restrictions: TripFolks will re-arrange the trip at additional cost where possible",
+      "Refunds processed only after recovering whatever is recoverable from suppliers (hotels, airlines, DMCs)",
+      "We keep you informed at every step and act in your best interest",
+      "Liability is limited to the package value paid"
+    ],
+    "whatToPack": [
+      {
+        "category": "Documents",
+        "items": [
+          "Government photo ID (Aadhaar / DL / passport) + photocopy",
+          "Confirmed flight/train tickets, hotel vouchers (we email 5 days before travel)",
+          "Two backup IDs",
+          "PAN card for hotel check-in in some states"
+        ]
+      },
+      {
+        "category": "Adventure / High-Altitude Gear",
+        "items": [
+          "Trekking shoes with ankle support (broken in, not brand new)",
+          "Thermals, fleece, windproof shell, rain layer",
+          "Trekking pole; headlamp with spare batteries",
+          "SPF 50+ sunscreen, UV sunglasses, lip balm",
+          "Diamox for altitude (consult doctor first)"
+        ]
+      },
+      {
+        "category": "Tech & Gadgets",
+        "items": [
+          "Phone charger + power bank",
+          "Camera or phone with good camera",
+          "Portable Bluetooth speaker (optional)",
+          "Daypack with rain cover"
+        ]
+      },
+      {
+        "category": "Health & Personal Care",
+        "items": [
+          "Personal medication for the trip + 2-3 days extra",
+          "Basic first-aid (bandages, antiseptic, ORS)",
+          "Paracetamol, anti-diarrhoeal, prescription meds",
+          "Toiletries (resorts provide basics but bring personal preferences)",
+          "Mosquito repellent for tropical/wildlife destinations"
+        ]
+      },
+      {
+        "category": "Money & Cards",
+        "items": [
+          "One backup ATM/debit card",
+          "Some INR cash for tips and small purchases",
+          "UPI works in most tourist towns — keep GPay/PhonePe active"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the starting price for the Valley of Flowers Trek package?",
+        "answer": "Starting at ₹35,200 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹23,900; Premium tier from ₹52,700. Full package with flights from ₹47,200."
+      },
+      {
+        "question": "When is the best time to book this trip?",
+        "answer": "Recommended window: Jul–Aug. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
+      },
+      {
+        "question": "Are flights included?",
+        "answer": "Land tiers are land-only (no flights). Full Package tier includes return economy flights from your selected Indian metro. Live fares are locked the day you confirm."
+      },
+      {
+        "question": "What documents do I need?",
+        "answer": "Valid government photo ID for hotel check-in and any flights. For restricted-zone destinations (Ladakh, Sikkim, Arunachal, Nagaland), we handle the Inner Line Permit — share scanned IDs 7-10 days before travel."
+      },
+      {
+        "question": "Can I customise the itinerary?",
+        "answer": "Yes — every element is customisable. Common changes: hotel category up/down, adding/removing cities, extending by 1-2 days, switching group to private. WhatsApp us your changes; revised quote in 24 hours."
+      },
+      {
+        "question": "What's the cancellation policy?",
+        "answer": "Cancel 30+ days out: 60% refund. Cancel 15-30 days out: 25% refund. Cancel within 15 days or no-show: no refund. Air tickets, visa fees and third-party non-refundables are 100% non-refundable from issuance. Refunds processed in 15-30 working days."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "25% on booking, 50% at 30 days before travel, 25% at 15 days before. UPI, NEFT and bank transfer have no extra charge. Cards have 2.5% gateway. International cards (Visa/MasterCard) accepted with applicable forex markup."
+      },
+      {
+        "question": "Is this trip suitable for solo / family / large group?",
+        "answer": "Yes to all. Solo: single-occupancy supplement applies (~35% above twin-share). Family: child rates apply (free under 5, 50% age 5-11, full above 12). Group of 6+: ask for group rates — usually 10-15% better than published price."
+      },
+      {
+        "question": "What if something goes wrong during the trip?",
+        "answer": "Your trip captain is on WhatsApp 24×7 with authority to fix problems — reroute transfers, change hotels on overbooking, coordinate doctor visits, manage flight delays."
+      },
+      {
+        "question": "Why book with TripFolks vs Wanderon, MMT or other operators?",
+        "answer": "TripFolks works directly with TBO, MMT Partner and Riya as a B2B travel operator — real net rates, transparent margins, no aggregator markup. Every hotel is pre-inspected by our team, and the trip captain is a real human on WhatsApp 24×7."
+      }
+    ],
+    "trustSignals": [],
+    "seoTitle": "Valley of Flowers Trek — 6N/7D Uttarakhand Tour Package @ ₹35,200 | TripFolks",
+    "seoDescription": "Book Valley of Flowers Trek — 6N/7D Uttarakhand package from ₹35,200/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp reply in 15 min",
+    "aeoSnippet": "The Valley of Flowers Trek package from TripFolks is a 6-night, 7-day trip covering Auli. Starting price is ₹35,200 per person on twin-share (all-inclusive of GST). Best travel window: Jul–Aug. Hotels: Guesthouse + Camp. Meals: All Meals. Flights: add-on available. Book with ₹15,000 deposit; balance in 2 instalments."
+  }
+}

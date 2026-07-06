@@ -1,0 +1,410 @@
+{
+  "slug": "bangkok-pattaya-4n5d-classic",
+  "title": "Bangkok–Pattaya 4N5D Classic",
+  "category": "international",
+  "subCategory": [
+    "Group Trips",
+    "Budget Friendly"
+  ],
+  "status": "published",
+  "is_featured": true,
+  "sort_order": 10,
+  "main_image_url": "",
+  "video_url": "",
+  "image_urls": [],
+  "price_num": 69300,
+  "destination_slugs": [
+    "thailand"
+  ],
+  "data": {
+    "duration": "4 NIGHTS / 5 DAYS",
+    "destinations": "Bangkok → Pattaya",
+    "tripType": "Saver",
+    "departureCities": "Delhi, Mumbai, Bengaluru, Hyderabad, Chennai, Kolkata",
+    "groupSize": "Group (min 2 pax)",
+    "bestSeason": "Year round",
+    "country": "Thailand",
+    "hotelCategory": "3-Star",
+    "flights": "Return economy flights included (ex-selected Indian metro)",
+    "visa": "Visa on Arrival (we assist with paperwork)",
+    "mealsIncluded": "Breakfast",
+    "transfers": "SIC",
+    "price": "",
+    "mrp": "92200",
+    "discountText": "",
+    "depositToBook": "15000",
+    "rating": "",
+    "reviews": "",
+    "description": "4 nights across Bangkok → Pattaya. Bangkok stitches together the Grand Palace's gilded chedis, Wat Pho's reclining Buddha, the malls of Siam Square, the street-food alleys of Yaowarat (Chinatown), the rooftop bars of Silom, and the night markets of Chatuchak and Asiatique. 3-Star stays, breakfast, sic. Return flights included. Starting ₹47,100 per person on twin-share, all-inclusive of GST.",
+    "about": "4 nights and 5 days across Bangkok → Pattaya. The classic version of Thailand — first-timer friendly, in a tested sequence. Bangkok stitches together the Grand Palace's gilded chedis, Wat Pho's reclining Buddha, the malls of Siam Square, the street-food alleys of Yaowarat (Chinatown), the rooftop bars of Silom, and the night markets of Chatuchak and Asiatique. Best window: Year round.",
+    "whyBook": "Every hotel on this itinerary has been personally inspected by our team — we name specific properties, not vague 'similar category' fudge. Daily plans are built by people who have actually done the route, with skip-the-line entry tickets and vetted local meal recommendations. Your trip captain is on WhatsApp 24×7 with the authority to fix problems on the ground — re-route a transfer, change a hotel, coordinate a doctor — without waiting for approval. TBO, MakeMyTrip Partner and Riya supplier access means you get real B2B rates with transparent margins, not aggregator markups.",
+    "highlights": [
+      "Bangkok: Bangkok stitches together the Grand Palace's gilded chedis.",
+      "Pattaya: Pattaya is the beach city two hours from Bangkok.",
+      "Entry tickets pre-booked at all major sights — no queueing.",
+      "GST, taxes and basic travel insurance built into the price."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Bangkok",
+        "desc": "Airport pickup by your TripFolks representative; 30-60 min transfer to hotel. Check-in, freshen up, evening at leisure to acclimatise. WhatsApp dinner recommendations nearby. Tomorrow's itinerary briefed over a quick call.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 2,
+        "title": "Bangkok — Headline Sightseeing",
+        "desc": "Breakfast, then headline sightseeing in Bangkok: Bangkok stitches together the Grand Palace's gilded chedis. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 3,
+        "title": "Bangkok → Pattaya",
+        "desc": "After breakfast, check out and transfer to Pattaya. Route mapped with tea/lunch stops. On arrival, check in and freshen up. Evening walk around the local market or hotel area. Trip captain briefing over dinner on tomorrow's plan.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 4,
+        "title": "Pattaya — City Walk + Free Afternoon",
+        "desc": "Breakfast, then headline sightseeing in Pattaya: Pattaya is the beach city two hours from Bangkok. Guide brings the context. Lunch at a local. Evening free for markets or dinner.",
+        "meals": "Breakfast",
+        "stay": "3-Star"
+      },
+      {
+        "day": 5,
+        "title": "Departure from Pattaya",
+        "desc": "Relaxed breakfast. Pack and check-out by 11 AM (late check-out arranged if needed). Airport transfer with full buffer for check-in. WhatsApp support stays active till you board.",
+        "meals": "Breakfast",
+        "stay": "Departure"
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Bangkok",
+        "hotel": "Bangkok Cha Da Hotel",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Furama Silom Bangkok",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Bangkok City Hotel",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Novotel Bangkok Sukhumvit 20",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Holiday Inn Bangkok Sukhumvit",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Hotel Indigo Bangkok",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Bangkok Marriott Marquis Queen's Park",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "The Sukhothai Bangkok",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Bangkok",
+        "hotel": "Mandarin Oriental Bangkok",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Mike Hotel Pattaya",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Sun Beach Hotel Pattaya",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Areca Lodge",
+        "category": "standard",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Centara Pattaya Hotel",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Holiday Inn Pattaya",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Hard Rock Hotel Pattaya",
+        "category": "deluxe",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Royal Cliff Grand Hotel",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Cape Dara Resort",
+        "category": "premium",
+        "nights": ""
+      },
+      {
+        "city": "Pattaya",
+        "hotel": "Hilton Pattaya",
+        "category": "premium",
+        "nights": ""
+      }
+    ],
+    "inclusions": [
+      "Return economy flights from selected Indian metro",
+      "4N accommodation in 3-Star on twin-share basis",
+      "Breakfast as per day plan",
+      "SIC for all airport and inter-city transfers",
+      "All sightseeing and entry tickets per the day plan",
+      "Dedicated trip captain + 24×7 WhatsApp support",
+      "Basic travel insurance (up to age 60)",
+      "Visa fee and processing assistance (VOA)",
+      "All taxes including 5% GST — no hidden charges"
+    ],
+    "exclusions": [
+      "Lunches except where stated",
+      "Personal expenses (laundry, mini-bar, calls)",
+      "Tips & gratuities for drivers and guides",
+      "Optional activities not listed in itinerary",
+      "Camera/video fees at monuments",
+      "Anything not specified in inclusions",
+      "5% / 20% TCS on overseas tour as per latest rule",
+      "Costs due to force majeure (natural calamity, schedule changes)"
+    ],
+    "pricingTiersList": [
+      {
+        "tier": "Standard (3-Star)",
+        "landOnlyNum": 47100,
+        "fullPkgNum": 47100,
+        "landOnly": 47100,
+        "fullPackage": 47100,
+        "details": "3-star branded hotels on twin-share; standard sightseeing in shared coach (SIC) where available. Best for first-time travellers and group budgets — covers all headline sights at the lowest price point."
+      },
+      {
+        "tier": "Deluxe (4-Star) — Recommended",
+        "landOnlyNum": 69300,
+        "fullPkgNum": 69300,
+        "landOnly": 69300,
+        "fullPackage": 69300,
+        "details": "4-star centrally-located hotels with daily breakfast; private vehicle for all transfers and sightseeing. Our most-booked tier — better stays, smoother pace, ~30% more than Standard for a noticeable upgrade."
+      },
+      {
+        "tier": "Premium (5-Star)",
+        "landOnlyNum": 103700,
+        "fullPkgNum": 103700,
+        "landOnly": 103700,
+        "fullPackage": 103700,
+        "details": "5-star or luxury boutique hotels with upgraded room category; fully private SUV and curated experiences (spa, private dining). For honeymoons, anniversary trips, and travellers who want a slower, premium-feel pace throughout."
+      }
+    ],
+    "batches": [
+      {
+        "dateRange": "01 Oct 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Oct 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Nov 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Nov 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "01 Dec 2026",
+        "status": "Available",
+        "priceOffset": 0
+      },
+      {
+        "dateRange": "15 Dec 2026",
+        "status": "Available",
+        "priceOffset": 0
+      }
+    ],
+    "paymentSchedule": [
+      "25% non-refundable advance to confirm hotels, flights and visa processing",
+      "50% balance due 30 days before travel",
+      "Final 25% due 15 days before travel",
+      "For bookings within 30 days: full amount due at booking",
+      "Accepted: UPI, NEFT, debit/credit cards (2.5% gateway), Razorpay link, International cards (Visa/MC with applicable forex fees)"
+    ],
+    "cancellationPolicy": [
+      {
+        "timing": "More than 30 days before departure",
+        "fee": "60% refund of total tour cost"
+      },
+      {
+        "timing": "Between 15-30 days before departure",
+        "fee": "25% refund of total tour cost"
+      },
+      {
+        "timing": "Less than 15 days before departure or no-show",
+        "fee": "No refund; full amount forfeited"
+      },
+      {
+        "timing": "Air tickets, visa fees, non-refundable third-party services",
+        "fee": "100% non-refundable from issuance"
+      },
+      {
+        "timing": "Refunds processed within 15-30 working days via original payment channel",
+        "fee": "As applicable"
+      }
+    ],
+    "amendments": [
+      "One free date change allowed if requested more than 60 days before travel, same package and season",
+      "Date changes within 60 days: subject to hotel/flight rate differences",
+      "Major itinerary changes (city additions, tier upgrades, day extensions): processed as new bookings, advance adjusted",
+      "Name changes on tickets: subject to airline/PNR rules — some carriers charge amendment fees"
+    ],
+    "forceMajeure": [
+      "In case of natural calamities, political unrest, pandemics, airline disruptions or government restrictions: TripFolks will re-arrange the trip at additional cost where possible",
+      "Refunds processed only after recovering whatever is recoverable from suppliers (hotels, airlines, DMCs)",
+      "We keep you informed at every step and act in your best interest",
+      "Liability is limited to the package value paid"
+    ],
+    "whatToPack": [
+      {
+        "category": "Documents",
+        "items": [
+          "Original passport (valid 6+ months from return) + photocopy",
+          "Printed visa approval & supporting documents",
+          "Flight tickets, hotel vouchers, insurance PDF (we email 5 days before travel)",
+          "PAN & Aadhaar for India-side transactions"
+        ]
+      },
+      {
+        "category": "Clothing & Essentials",
+        "items": [
+          "Layered clothing appropriate to season",
+          "Comfortable walking shoes (already broken in)",
+          "One smart-casual outfit for nicer dinners",
+          "Light rain jacket in shoulder season",
+          "Daypack for sightseeing"
+        ]
+      },
+      {
+        "category": "Tech & Gadgets",
+        "items": [
+          "Universal travel adaptor (most countries differ from India's plug type)",
+          "Power bank under 100Wh (flight regulation)",
+          "Destination eSIM (Airalo, Holafly) or international roaming",
+          "Camera with spare batteries"
+        ]
+      },
+      {
+        "category": "Health & Personal Care",
+        "items": [
+          "Personal medication for the trip + 2-3 days extra",
+          "Basic first-aid (bandages, antiseptic, ORS)",
+          "Paracetamol, anti-diarrhoeal, prescription meds",
+          "Toiletries (resorts provide basics but bring personal preferences)",
+          "Mosquito repellent for tropical/wildlife destinations"
+        ]
+      },
+      {
+        "category": "Money & Cards",
+        "items": [
+          "Forex card pre-loaded with destination currency (Niyo / Wise / BookMyForex)",
+          "Some destination-currency cash for tips and small purchases",
+          "One backup card with no forex markup",
+          "INR for airport transfers and post-return expenses"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the starting price for the Bangkok–Pattaya 4N5D Classic package?",
+        "answer": "Starting at ₹69,300 per person on twin-sharing (Deluxe tier, land only — all-inclusive of GST). Standard tier from ₹47,100; Premium tier from ₹103,700. Full package with flights from ₹69,300."
+      },
+      {
+        "question": "When is the best time to book this trip?",
+        "answer": "Recommended window: Year round. Book 30-60 days ahead for best hotel and flight rates; peak-season trips (festivals, New Year) often fill up earlier. Outside the recommended window the trip still operates but weather and inclusions can vary."
+      },
+      {
+        "question": "Are flights included?",
+        "answer": "Return economy flights from your selected Indian metro are included in all tiers."
+      },
+      {
+        "question": "Will you handle the visa for Thailand?",
+        "answer": "Yes. Visa type: VOA. We handle the application end-to-end — you provide the documents (we send a checklist), we submit and track. Visa fee and processing are included in the package."
+      },
+      {
+        "question": "Can I customise the itinerary?",
+        "answer": "Yes — every element is customisable. Common changes: hotel category up/down, adding/removing cities, extending by 1-2 days, switching group to private. WhatsApp us your changes; revised quote in 24 hours."
+      },
+      {
+        "question": "What's the cancellation policy?",
+        "answer": "Cancel 30+ days out: 60% refund. Cancel 15-30 days out: 25% refund. Cancel within 15 days or no-show: no refund. Air tickets, visa fees and third-party non-refundables are 100% non-refundable from issuance. Refunds processed in 15-30 working days."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "25% on booking, 50% at 30 days before travel, 25% at 15 days before. UPI, NEFT and bank transfer have no extra charge. Cards have 2.5% gateway. International cards (Visa/MasterCard) accepted with applicable forex markup."
+      },
+      {
+        "question": "Is this trip suitable for solo / family / large group?",
+        "answer": "Yes to all. Solo: single-occupancy supplement applies (~35% above twin-share). Family: child rates apply (free under 5, 50% age 5-11, full above 12). Group of 6+: ask for group rates — usually 10-15% better than published price."
+      },
+      {
+        "question": "What if something goes wrong during the trip?",
+        "answer": "Your trip captain is on WhatsApp 24×7 with authority to fix problems — reroute transfers, change hotels on overbooking, coordinate doctor visits, manage flight delays."
+      },
+      {
+        "question": "Why book with TripFolks vs Wanderon, MMT or other operators?",
+        "answer": "TripFolks works directly with TBO, MMT Partner and Riya as a B2B travel operator — real net rates, transparent margins, no aggregator markup. Every hotel is pre-inspected by our team, and the trip captain is a real human on WhatsApp 24×7."
+      }
+    ],
+    "trustSignals": [],
+    "seoTitle": "Bangkok–Pattaya 4N5D Classic — 4N/5D Thailand Tour Package @ ₹69,300 | TripFolks",
+    "seoDescription": "Book Bangkok–Pattaya 4N5D Classic — 4N/5D Thailand package from ₹69,300/pax. Hotels, transfers, sightseeing included. TBO + MMT B2B rates. WhatsApp reply in 15",
+    "aeoSnippet": "The Bangkok–Pattaya 4N5D Classic package from TripFolks is a 4-night, 5-day trip covering Bangkok, Pattaya. Starting price is ₹69,300 per person on twin-share (all-inclusive of GST). Best travel window: Year round. Hotels: 3-Star. Meals: Breakfast. Flights: included. Book with ₹15,000 deposit; balance in 2 instalments."
+  }
+}

@@ -4,16 +4,8 @@ import connectDB from "./src/config/db.js";
 import app from "./src/app.js";
 // For development only
 import cors from "cors";
-app.use(
-  cors({
-    origin: "*",
-    credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  }),
-);
-
 dotenv.config();
+app.use(cors());
 
 connectDB();
 

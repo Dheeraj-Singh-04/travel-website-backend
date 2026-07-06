@@ -78,7 +78,6 @@ const packageSchema = new mongoose.Schema(
 
     category: {
       type: String,
-      required: true,
     },
 
     subCategory: [
@@ -200,7 +199,6 @@ const packageSchema = new mongoose.Schema(
 );
 
 // Indexes
-packageSchema.index({ slug: 1 });
 
 packageSchema.index({ category: 1 });
 
